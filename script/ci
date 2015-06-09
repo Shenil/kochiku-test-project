@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+echo "test"
+sleep 5
+exit 0
